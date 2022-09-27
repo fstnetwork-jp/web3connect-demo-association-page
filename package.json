@@ -1,0 +1,19 @@
+{
+  "name": "workshop-org-web",
+  "version": "0.1.0",
+  "main": "./src/demo.js",
+  "scripts": {
+    "start": "node ./src/demo.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
