@@ -7,7 +7,7 @@ API_KEY_SECRET=<YOUR API KEY SECRET>
 HOST=https://dev.web3connect.jp/rest/v1
 ```
 
-## Get stared
+## Start the demo backend
 
 ```sh
 npm i - g yarn
