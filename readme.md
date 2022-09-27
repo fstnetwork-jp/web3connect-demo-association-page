@@ -10,7 +10,7 @@ HOST=https://dev.web3connect.jp/rest/v1
 ## Start the demo backend
 
 ```sh
-npm i - g yarn
+npm i -g yarn
 
 yarn
 
