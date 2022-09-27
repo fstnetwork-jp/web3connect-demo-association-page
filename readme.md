@@ -19,4 +19,4 @@ yarn start
 
 ## Open the demo web
 
-http://localhost:23456/userId=1234
+http://localhost:23456?userId=1234
